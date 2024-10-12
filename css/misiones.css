@@ -1,0 +1,42 @@
+/* ESTILOS CONTENEDOR GENERAL PARA QUE DEJE CENTAR TODO */
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+/* ESTILOS PARA LA TABLA */
+
+table{
+    border-collapse: collapse;
+    border: 2px solid grey;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    background-color: rgb(189, 189, 189);
+}
+
+th{
+    border: 1px solid gray;
+    background-color: rgb(112, 110, 110);
+    padding: 10px;
+    text-align: left;
+}
+
+td{
+    border: 1px solid grey;
+    padding: 10px;
+    /* background-color: rgb(182, 180, 180); */
+}
+
+/* ESTILOS PARA HOVER EN LA TABLA */
+
+tr td:hover{
+    background-color:grey ;
+    transition: .7s;
+}
+
+/* ESTILOS PARA TUTILO SECUNDARIO */
+
+h2{
+    padding: 2px 15px;
+}
+
