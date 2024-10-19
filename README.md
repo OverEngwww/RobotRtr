@@ -12,7 +12,7 @@ Este repositorio contiene archivos HTML que te servirán de base para poder real
 
 ## Instrucciones de Uso
 
-Descargá el repositorio en una carpeta y comenzá a colocarle estilos. Lo pudes hacer tocando el botón < Code > y luego tocando "Download ZIP" o haciendo git clone https://github.com/sergiecode/estructura-proyecto1-curso-css.git en tu consola
+Descargá el repositorio en una carpeta y comenzá a colocarle estilos. Lo pudes hacer tocando el botón < Code > y luego tocando "Download ZIP" o haciendo git clone https://github.com/OverEngwww/RobotRtrHtmlCss.git en tu consola
 
 ## Contribuciones
 
